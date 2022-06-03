@@ -1,0 +1,8 @@
+stepDefinitions/S07_SocialMedia.class
+stepDefinitions/S09_ShoppingCart.class
+stepDefinitions/S05_Categories.class
+PageElement/P04_Whishlist.class
+stepDefinitions/S06_HeroSectionSlider.class
+PageElement/P05_ShoppingCart.class
+stepDefinitions/Hooks.class
+PageElement/P02_Login.class
