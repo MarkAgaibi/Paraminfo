@@ -18,6 +18,7 @@ public class S01_SaudiArabia {
 @Given("User navigated to Home page of Saudi Arabia with the URL as: \"(.*)\$")
     public  void  Navigate_to_HomePage(String URL){
 
+     // Navigate to Saudi Arabia into Arabic Language.
      window.location.assign(URL);
  
     }
