@@ -23,7 +23,7 @@ public class Hooks {
 
 
         //Navigate to needed URL
-        driver.navigate().to("https://demo.nopcommerce.com/");
+        driver.navigate().to("https://subscribe.stctv.com/");
 
     }
 
