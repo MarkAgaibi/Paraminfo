@@ -32,7 +32,7 @@ public class S01_SaudiArabia {
 
 
 @Then("Site changes into the new English display.")
-    public void User_Shall_be_Logged_In (){
+    public void Change_Language(){
 
         //Assert that the URL is correct and the (My Account) Button is displayed
     SoftAssert AssertLogin = new SoftAssert();
